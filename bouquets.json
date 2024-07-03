@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Lovers Gift",
+        "price": 23,
+        "composition":
+        [
+            "Roses"
+        ],
+        "image": "Photos/bouqet_roses.png"
+    },
+    {
+        "name": "Bride's Maid of Honour",
+        "price": 27,
+        "composition":
+        [
+            "Roses",
+            "Fressias"
+        ],
+        "image": "Photos/coloured_roses.jpeg"
+    },
+    {
+        "name": "Last Farewell",
+        "price": 20,
+        "composition":
+        [
+            "Roses"
+        ],
+        "image": "Photos/roses_frezje.jpeg"
+    },
+    {
+        "name": "Sping's Delight",
+        "price": 35,
+        "composition":
+        [
+            "Hydrageas"
+        ],
+        "image":"Photos/bouqet_hydrageas.png"
+    },
+    {
+    "name": "Let's Fall in Love Again",
+    "price": 19,
+    "composition":
+    [
+        "Sweet apologies"
+    ],
+    "image":"Photos/love_again.png"
+    }
+]
