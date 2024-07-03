@@ -35,5 +35,14 @@
             "Hydrageas"
         ],
         "image":"Photos/bouqet_hydrageas.png"
+    },
+    {
+    "name": "Let's Fall in Love Again",
+    "price": 19,
+    "composition":
+    [
+        "Sweet apologies"
+    ],
+    "image":"Photos/love_again.png"
     }
 ]
